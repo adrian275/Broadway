@@ -14,10 +14,9 @@ h1 {
   background-image: url("../images/theflatironbuilding.png");
 }
 
-.navigation {
+#navigation {
   font-family: Helvetica;
   font-size: 18px;
-  color: white;
 }
 
 .subheader {
@@ -34,9 +33,18 @@ h3 .subheader {
 
 p {
   font-family: Helvetica;
-  font-size: 14px;
+
+}
+
+.explanation {font-size: 14px;
 }
 
 #designed {
   color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  color: White;
+  font-size: 11px;
 }
