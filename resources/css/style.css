@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.title {
+  background-image: url("../images/theflatironbuilding.png");
+}
+
+.navigation {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.subheader {
+      font-weight:bold;
+}
+
+h2 .subheader {
+  font-size: 32px;
+}
+
+h3 .subheader {
+  font-size: 23px;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+#designed {
+  color: white;
+}
